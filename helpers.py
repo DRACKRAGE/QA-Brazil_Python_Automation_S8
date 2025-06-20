@@ -38,7 +38,7 @@ def is_url_reachable(url):
         ssl_ctx.verify_mode = ssl.CERT_NONE
 
         with urllib.request.urlopen(url, context=ssl_ctx) as response:
-            # print("Código de status da resposta:", response.status)# para fins de depuração
+            print("Código de status da resposta:", response.status)# para fins de depuração
             if response.status == 200:
                  return True
             else:
