@@ -156,6 +156,7 @@ class UrbanRoutesPages:
         self.enter_from_location(from_text)
         self.enter_to_location(to_text)
 
+    # identifica o campo de telefone, inserindo numero, obtendo codigo e validando
     def click_number_text(self, phone_number):
         # Encontra os campos para inserir os dados fr telefone, busca o código SMS gerado, confirma e valida
         self.driver.find_element(*self.number_text_locator).click()
