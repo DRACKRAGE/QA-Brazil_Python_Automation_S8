@@ -78,7 +78,7 @@ Este repositório contém o projeto desenvolvido durante a **Sprint 8** do Bootc
 
 **Bruno dos Santos Souza**  
 📍 São José dos Campos, SP  
-🔗 [LinkedIn](https://www.linkedin.com/in/bruno-dos-santos-souza/)  
+🔗 [https://www.linkedin.com/in/bruno-dos-santos-souza/](https://www.linkedin.com/in/brunoss97)
 🎓 QA | Automação de testes com Python, Selenium e Pytest
 
 ---
